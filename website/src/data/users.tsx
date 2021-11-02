@@ -1498,6 +1498,10 @@ const Users: User[] = [
     source: 'https://github.com/nocalhost/nocalhost',
     tags: ['opensource', 'i18n']
   },
+  {
+    title: 'Patrik Mäsiar Projects',
+    description: 'Documentation of open source project by Patrik Mäsiar - software developer.',
+  }
 
 
   /*
